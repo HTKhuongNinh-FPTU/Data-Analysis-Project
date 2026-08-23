@@ -22,7 +22,7 @@ Power BI Desktop: Designed interactive dashboards.
 
 Phase 1: Technical Processing (Google Colab)
 
-AI Modeling: Using forecasting algorithms (such as Linear Regression, ARIMA, or other machine learning techniques) to calculate sales for 2025.
+AI Modeling: Using forecasting algorithms (Linear Regression) to calculate sales for 2025.
 
 I used Python to ensure the input data met analytical standards:
 
